@@ -17,7 +17,6 @@ https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=
 
 <br>
 
-![HyeonGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGyu-Shin&theme=buefy&show_icons=true)
  
 </div>
 
